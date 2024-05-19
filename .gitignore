@@ -2,6 +2,6 @@
 /minio
 /table
 /temp
-/__pycache
+/__pycache__
 /spark-warehouse
 /.env
