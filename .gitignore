@@ -1,0 +1,7 @@
+/venv
+/minio
+/table
+/temp
+/__pycache
+/spark-warehouse
+/.env
